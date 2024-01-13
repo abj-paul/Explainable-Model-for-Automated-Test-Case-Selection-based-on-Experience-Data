@@ -1,2 +1,5 @@
 * About
  Industry require explainable model for these tasks. Since this domain is relatively new, before millions of dollars of experiementation and data collection, we can't confidently use a blackbox model. So here is a white box model. 
+
+* Why no blackbox model?
+For low resource setting, a blackbox can't learn good enough to be used in complex real world. So we use this - an explainable AI that leverages big LLMs to make predictions in a simple manner. Thus, it does not cause much of an issue even when it creates errorenous results.
