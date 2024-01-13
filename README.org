@@ -1,0 +1,2 @@
+* About
+ Industry require explainable model for these tasks. Since this domain is relatively new, before millions of dollars of experiementation and data collection, we can't confidently use a blackbox model. So here is a white box model. 
